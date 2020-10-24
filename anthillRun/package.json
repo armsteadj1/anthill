@@ -1,0 +1,11 @@
+{
+  "name": "anthill",
+  "version": "1.0.0",
+  "description": "ant+ powers",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gd-ant-plus": "0.0.29",
+    "sqlite3": "^5.0.0"
+  }
+}
